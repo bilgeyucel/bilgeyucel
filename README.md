@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Bilge</h1>
 
-<!--
-**bilgeyucel/bilgeyucel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineer working on Natural Language Processing.
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/bilgeycl" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bilge-yucel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### BIO
+
+- 🏫 I study AI at KU Leuven, Belgium
+- 🏢 I'm currently working on my thesis about _"Information Extraction from Job Vacancies"_
+- 🌱 I’m currently learning all about **Deep Learning, NLP, Technical Writing**
+- 🖥️ I worked as a web developer for 2+ years @Hipo
+- 😄 Pronouns: She/Her
+- 💃 Fun fact: I love dancing and reggaetón
+
+### Tech Stack
+- Natural Language Processing: Hugging Face, spaCy, NLTK
+- Machine Learning: TensorFlow, Scikit-learn
+- Data Science: Pandas, Numpy, PySpark
+- Visuals: Matplotlib
+- Demo: Gradio
+
+
