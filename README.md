@@ -8,7 +8,7 @@ I'm an AI Engineer working on Natural Language Processing.
 ### BIO
 
 - 🏫 I study AI at KU Leuven, Belgium
-- 🏢 I'm currently working on my thesis about _"Information Extraction from Job Vacancies"_
+- 🏢 I'm currently working on my thesis about _"Information Extraction from Unstructured Job Vacancies"_
 - 🌱 I’m currently learning all about **Deep Learning, NLP, Technical Writing**
 - 🖥️ I worked as a web developer for 2+ years @Hipo
 - 😄 Pronouns: She/Her
