@@ -1,17 +1,18 @@
 <h1 align="center">Hi there 👋, I'm Bilge</h1>
 
-I'm a Developer Advocate 🥑 working on Natural Language Processing.
+I'm a Developer Relations Engineer 🥑 working on Natural Language Processing.
 
 <a href="https://twitter.com/bilgeycl" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://bilgeycl.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/bilge-yucel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://speakerdeck.com/bilgeyucel" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/speakerdeck-009287.svg?&style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
 
 ### BIO
 
 - 🏫 I studied AI at KU Leuven, Belgium
 - 🖥️ I worked as a web developer for 2+ years @Hipo
 - 😄 Pronouns: She/Her
-- 💃 Fun fact: I love dancing and reggaetón
+- 💃 Fun fact: I love latin dances and reggaetón
 
 ### Tech Stack
 - Natural Language Processing: [Haystack](https://haystack.deepset.ai/), Hugging Face, spaCy, NLTK
